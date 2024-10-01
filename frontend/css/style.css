@@ -1,0 +1,17 @@
+/* GENERAL */
+
+.my-bg-header {
+    background-color: #06131F;
+}
+
+.my-bg-main {
+    background-color: #1D2D3C;
+}
+
+.my-bg-card {
+    background-color: #112030;
+}
+
+body {
+    color: white !important;
+}
